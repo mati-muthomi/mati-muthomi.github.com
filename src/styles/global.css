@@ -1,0 +1,16 @@
+
+@font-face {
+    font-family: 'oranienbaum';
+    src: url('/public/fonts/oranienbaum.woff2') format('woff2');
+
+}
+
+
+@import "tailwindcss";
+ @plugin "@tailwindcss/typography";
+
+body {
+    font-family: 'oranienbaum';
+    margin: 2rem;
+    font-size: 20px;
+}
