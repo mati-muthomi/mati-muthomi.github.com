@@ -4,7 +4,7 @@ import { defineConfig } from 'astro/config';
 // https://astro.build/config
 export default defineConfig({
 
- site: 'https://muthomi.github.io',
+ site: 'https://mati-muthomi.github.com.git',
  base: '/'
 
 });
