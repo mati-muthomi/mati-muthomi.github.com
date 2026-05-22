@@ -5,6 +5,6 @@ import { defineConfig } from 'astro/config';
 export default defineConfig({
 
  site: 'https://muthomi.github.io',
- base: '/muthomi'
+ base: '/'
 
 });
